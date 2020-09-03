@@ -1,1 +1,0 @@
-o conteudo do arquivo arquitetura.md é  "este eh o aquivo de arquitetura"
